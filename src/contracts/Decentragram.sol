@@ -2,7 +2,7 @@ pragma solidity ^0.5.0;
 
 contract Decentragram {
   // Code goes here...
-  string public name = "NoStringsAttached";
+  string public name = "HDocs";
   // Store images
   mapping(uint => Image) public images;
   uint public imageCount = 0;
